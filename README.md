@@ -1,4 +1,4 @@
-# KANGCI
+# GN-GC
 
 ## Click to run the codes
 (1) modify the dataset address
